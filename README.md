@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**mahirchow/mahirchow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### How's it going! 👋
 
 - 🔭 I’m currently working on April, an ai chatbot/virtual assistant.
