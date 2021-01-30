@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahirchow&label=Profile%20views&color=0e75b6&style=flat" alt="mahirchow" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahirchow" alt="mahirchow" /></a> </p>
-
 - 🔭 I’m currently working on [April (an ai desktop chatbot/virtual assistant)](https://github.com/mahirchow/April)
 
 - 🌱 I’m currently learning **Tensorflow and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://mahirchow.github.io/projects/](https://mahirchow.github.io/projects/)
+- 👨‍💻 My best projects are available at [https://mahirchow.github.io/projects/](https://mahirchow.github.io/projects/)
 
 - 📝 I regularly write articles on [https://mahirchow.github.io/posts/](https://mahirchow.github.io/posts/)
 
