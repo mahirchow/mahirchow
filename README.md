@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [April (an ai desktop chatbot/virtual assistant)](https://github.com/mahirchow/April)
 
-- 🌱 I’m currently learning **Tensorflow and Machine Learning**
+- 🌱 I’m learning **Tensorflow and Machine Learning**
 
 - 👨‍💻 My best projects are available at [https://mahirchow.github.io/projects/](https://mahirchow.github.io/projects/)
 
-- 📝 I regularly write articles on [https://mahirchow.github.io/posts/](https://mahirchow.github.io/posts/)
+- 📝 I write articles on [https://mahirchow.github.io/posts/](https://mahirchow.github.io/posts/)
 
 - 📫 How to reach me **mahirchow.io@gmail.com**
 
