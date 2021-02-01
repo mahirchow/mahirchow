@@ -34,5 +34,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahirchow&show_icons=true&locale=en&bg_color=1C00ff00" alt="mahirchow" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahirchow&bg_color=1C00ff00" alt="mahirchow" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?&bg_color=1C00ff00user=mahirchow&" alt="mahirchow" /></p>
 
