@@ -22,9 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mahir-daian-chowdhury" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mahir-daian-chowdhury" height="30" width="40" /></a>
-<a href="https://instagram.com/mahirchow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mahirchow" height="30" width="40" /></a>
-<a href="https://discord.gg/Emsee#8146" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Emsee#8146" height="30" width="40" /></a>
+<a href="https://instagram.com/mahirchow" target="blank"><img align="center" src="https://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png?w=300" alt="mahirchow" height="30" width="40" /></a>
+<a href="https://discord.gg/Emsee#8146" target="blank"><img align="center" src="https://discord.com/assets/e4923594e694a21542a489471ecffa50.svg" alt="Emsee#8146" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,6 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahirchow&show_icons=true&locale=en&layout=compact&bg_color=1C00ff00&text_color=fa9632&icon_color=fa9632&title_color=fa9632&hide_border=true" alt="mahirchow" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahirchow&show_icons=true&locale=en&bg_color=1C00ff00&text_color=fa9632&icon_color=fa9632&title_color=fa9632&hide_border=true" alt="mahirchow" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=mahirchow&bg_color=1C00ff00&text_color=fa9632&icon_color=fa9632&title_color=fa9632&hide_border=true" alt="mahirchow" /></p>
-
