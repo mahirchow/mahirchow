@@ -1,6 +1,6 @@
 <h1 align="center">Hey! My name is Mahir Chow</h1>
 <p align="center">
-  <img width="200" height="190" src="https://github.com/mahirchow/mahirchow/blob/main/okabe.gif">
+  <img width="500" height="280" src="https://github.com/mahirchow/mahirchow/blob/main/okabe_rin.gif">
 </p>
 <h3 align="center">You know who I am.</h3>
 
