@@ -1,5 +1,7 @@
 <h1 align="center">Hey! My name is Mahir Chow</h1>
-<center> <img align="middle" src="https://github.com/mahirchow/mahirchow/blob/main/okabe.gif" alt="mahir-daian-chowdhury" height="250" width="280" /> </center>
+<p align="center">
+  <img width="200" height="280" src="https://github.com/mahirchow/mahirchow/blob/main/okabe.gif">
+</p>
 <h3 align="center">You know who I am.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahirchow&label=Profile%20views&color=0e75b6&style=flat" alt="mahirchow" /> </p>
