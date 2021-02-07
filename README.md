@@ -67,8 +67,12 @@
 <img alt="MS Powerpoint" src="https://img.shields.io/badge/MS%20Powerpoint-B7472A.svg?&style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahirchow&show_icons=true&theme=dracula" alt="mahirchow" /></p>
+<center>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahirchow&show_icons=true&theme=vision-friendly-dark" alt="mahirchow" />
+</center>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirchow&layout=compact&theme=dracula" alt="mahirchow" /></p>
+<center>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirchow&layout=compact&theme=vision-friendly-dark" alt="mahirchow" />
+</center>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
