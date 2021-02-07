@@ -4,7 +4,7 @@
 </p>
 <h3 align="center">You know who I am.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahirchow&label=Profile%20views&color=0e75b6&style=flat" alt="mahirchow" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahirchow&label=Profile%20views&color=5288D7" alt="mahirchow" /> </p>
 
 - 🔭 I’m currently working on [April (an ai desktop chatbot/virtual assistant)](https://github.com/mahirchow/April)
 
@@ -44,7 +44,6 @@
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
-<img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />  
 <img alt="QT" src="https://img.shields.io/badge/QT for Python-%41CD52.svg?&style=for-the-badge&logo=qt&logoColor=white" />
   <img alt="Discord.py" src="https://img.shields.io/badge/Discord.py-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
@@ -58,6 +57,8 @@
 <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=eclipse-ide&logoColor=white" />  
 <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?&style=for-the-badge&logo=google-colab&logoColor=white" />
+  <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="Linux Mint" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=linux-mint&logoColor=white" />
 </p>
 
 <h3 align="center">💼 Office Tools:</h3>
@@ -75,4 +76,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirchow&layout=compact&theme=vision-friendly-dark" alt="mahirchow" />
 </center>
 
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+<h2  align="center">💻 Check Out My Pinned Repos Below ⬇️ </h2>
