@@ -4,7 +4,7 @@
 </p>
 <h3 align="center">You know who I am.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahirchow&label=Profile%20views&color=5288D7" alt="mahirchow" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahirchow&label=Profile%20views&color=5288D7" alt="mahirchow" /> </p>
 
 <hr>
 
